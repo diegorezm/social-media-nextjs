@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300&family=Roboto&display=swap');
+
+
+:root {
+  --foreground-color: #cad3f5;
+  --background-color: #24273a;
+  --input-bg: #363a4f;
+}
+
+
+input{
+  background-color: var(--input-bg);
+}
+
+
+body {
+  background: var(--background-color);
+  color: var(--foreground-color);
+  font-family: 'JetBrains Mono', monospace;
+  font-family: 'Roboto', sans-serif;
+}
