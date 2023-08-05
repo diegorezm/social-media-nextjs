@@ -7,10 +7,13 @@ Website i created to study nextjs.
 
 
 # Todo list
-- [x]  Its capable of creating and authenticating users , and then connecting with a mongodb database to store this information.
-- [x]  Once the profile is created, the user can acess his own profile page, there he is able to change his profile picture and see his information.
-- [x]  User is able to access his profile through the navbar once he is logged in.
+- [x]  Its capable of creating and authenticating users , and then connecting with a mongodb database to store this information
+- [x]  Once the profile is created, the user can acess his own profile page, there he is able to change his profile picture and see his information
+- [x]  User is able to access his profile through the navbar once he is logged in
+- [x]  User is able to view,create and delete posts
+- []   A like/dislike system.
 - []   User is able to validate his e-mail
-- []   User is able to change his password.
-- []   User is able to delete his own account.
+- []   User is able to change his password
+- []   User is able to change his username  
+- []   User is able to delete his own account
 
