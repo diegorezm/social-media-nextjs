@@ -6,6 +6,11 @@
 Website i created to study nextjs.
 
 
+# Demo 
+
+[![Watch the video](https://img.youtube.com/vi/CrwErznp5sY/hqdefault.jpg)](https://www.youtube.com/embed/CrwErznp5sY)
+
+
 # Todo list
 - [x]  Its capable of creating and authenticating users , and then connecting with a mongodb database to store this information
 - [x]  Once the profile is created, the user can acess his own profile page, there he is able to change his profile picture and see his information
